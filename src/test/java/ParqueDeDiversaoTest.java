@@ -10,6 +10,17 @@ public class ParqueDeDiversaoTest {
 
     @Test
     public void testParqueDeDiversao() {
-        // Vamos codificar aqui
+        // Driver, preciso de você!
+
+        // Driver, vá para o site “https://bit.ly/lojinhaWeb20"
+
+        // Driver, qual é o título da página
+
+        // Driver, me diga qual é a URL atual
+
+        // Driver, procure um elemento com name definido como “usuario"
+
+        // Driver, agora já pode fechar o Chrome!
+
     }
 }
